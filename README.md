@@ -8,3 +8,9 @@
 $ make
 $ make install
 ```
+
+### AUR
+
+```sh
+$ paru -S nsxiv-demon
+```
